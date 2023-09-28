@@ -1,6 +1,6 @@
 # Tights.no Webscraper/Discord Bot        
     
-## Overview 
+## Overview
 The Tights.no Webscraper/Discord Bot is a tool designed to monitor product prices on the Tights.no website and provide updates through Discord. 
 This project combines web scraping capabilities with Discord integration to keep you informed about price changes for your favorite products.
 
