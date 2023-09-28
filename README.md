@@ -1,11 +1,11 @@
-Tights.no Webscraper/Discord Bot        
+# Tights.no Webscraper/Discord Bot        
     
-Overview \n
+## Overview \n
 The Tights.no Webscraper/Discord Bot is a tool designed to monitor product prices on the Tights.no website and provide updates through Discord. \n
 This project combines web scraping capabilities with Discord integration to keep you informed about price changes for your favorite products.\n
 
 
-Features
+## Features
 
 Web Scraping: Utilizes Axios and Cheerio to extract product pricing information from specific URLs on Tights.no.
 
@@ -17,7 +17,7 @@ Configurable: Easily configure the URLs you want to monitor and the Discord chan
 
 Customizable Messages: Craft personalized messages for notifications based on price changes.
 
-Notes
+## Notes
 
 Be aware that you have to setup .env file with you Discord Bot's token on your own and set which channel you wish the messages to be sent to
 
